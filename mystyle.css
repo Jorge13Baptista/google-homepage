@@ -1,6 +1,4 @@
-
-.inputOutter{
-    
+.inputOutter {
     background: #fff;
     display: flex;
     border-radius: 8px;
@@ -13,7 +11,7 @@
     width: 482px;
 }
 
-.inputOutterUpperSpace{
+.inputOutterUpperSpace {
     height: 233px;
     margin-top: 89px;
 }
@@ -23,4 +21,15 @@
     align-items: center;
     padding-right: 13px;
     margin-top: -5px;
+}
+
+.LeftIconDiv {
+    margin: auto;
+}
+
+.Icon {
+    color: #9AA0A6;
+    height: 20px;
+    width: 20px;
+    margin-top: 3px;
 }
