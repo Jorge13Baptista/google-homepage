@@ -17,3 +17,10 @@
     height: 233px;
     margin-top: 89px;
 }
+
+.outterLeftIcona {
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: -5px;
+}
